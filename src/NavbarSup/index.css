@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbarSup {
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    background-color: darkred;
+    align-items: flex-end;
+}
+
+p {
+    margin-left: 20px;
+    color: gold;
+}
