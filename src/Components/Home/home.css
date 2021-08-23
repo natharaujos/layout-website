@@ -1,3 +1,7 @@
 #carouselExampleControls {
     height: 400px;
 }
+
+.images-back {
+    filter: brightness(20%);
+}

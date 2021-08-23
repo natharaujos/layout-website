@@ -1,0 +1,9 @@
+.tittle {
+    margin-top: 50px;
+}
+
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

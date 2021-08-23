@@ -1,0 +1,18 @@
+.configs {
+    height: 500px;
+}
+
+.images {
+    background: url('../../images/gondolas-real.png');
+    height: 500px;
+}
+
+.images-back {
+    height: 500px;
+    filter: brightness(20%);
+}
+
+.cadastro {
+    margin-left: 50px;
+    padding-top: 80px;
+}
