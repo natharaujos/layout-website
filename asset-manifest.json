@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.b82f2030.chunk.css",
-    "main.js": "/static/js/main.722d3f85.chunk.js",
-    "main.js.map": "/static/js/main.722d3f85.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d844a27b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d844a27b.js.map",
-    "static/css/2.591db2b6.chunk.css": "/static/css/2.591db2b6.chunk.css",
-    "static/js/2.fb42ca6e.chunk.js": "/static/js/2.fb42ca6e.chunk.js",
-    "static/js/2.fb42ca6e.chunk.js.map": "/static/js/2.fb42ca6e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.591db2b6.chunk.css.map": "/static/css/2.591db2b6.chunk.css.map",
-    "static/css/main.b82f2030.chunk.css.map": "/static/css/main.b82f2030.chunk.css.map",
-    "static/js/2.fb42ca6e.chunk.js.LICENSE.txt": "/static/js/2.fb42ca6e.chunk.js.LICENSE.txt",
-    "static/media/gondola.1bae133d.png": "/static/media/gondola.1bae133d.png",
-    "static/media/gondolas-corredor.5c225f5c.jpg": "/static/media/gondolas-corredor.5c225f5c.jpg",
-    "static/media/cadastro.css": "/static/media/gondolas-real.91b13e67.png",
-    "static/media/iimg_background.fd6614a0.jpg": "/static/media/iimg_background.fd6614a0.jpg",
-    "static/media/whatsapp.4ba01ee1.png": "/static/media/whatsapp.4ba01ee1.png"
+    "main.css": "/layout-website/static/css/main.4963b14e.chunk.css",
+    "main.js": "/layout-website/static/js/main.722d3f85.chunk.js",
+    "main.js.map": "/layout-website/static/js/main.722d3f85.chunk.js.map",
+    "runtime-main.js": "/layout-website/static/js/runtime-main.e18abf94.js",
+    "runtime-main.js.map": "/layout-website/static/js/runtime-main.e18abf94.js.map",
+    "static/css/2.591db2b6.chunk.css": "/layout-website/static/css/2.591db2b6.chunk.css",
+    "static/js/2.fb42ca6e.chunk.js": "/layout-website/static/js/2.fb42ca6e.chunk.js",
+    "static/js/2.fb42ca6e.chunk.js.map": "/layout-website/static/js/2.fb42ca6e.chunk.js.map",
+    "index.html": "/layout-website/index.html",
+    "static/css/2.591db2b6.chunk.css.map": "/layout-website/static/css/2.591db2b6.chunk.css.map",
+    "static/css/main.4963b14e.chunk.css.map": "/layout-website/static/css/main.4963b14e.chunk.css.map",
+    "static/js/2.fb42ca6e.chunk.js.LICENSE.txt": "/layout-website/static/js/2.fb42ca6e.chunk.js.LICENSE.txt",
+    "static/media/gondola.1bae133d.png": "/layout-website/static/media/gondola.1bae133d.png",
+    "static/media/gondolas-corredor.5c225f5c.jpg": "/layout-website/static/media/gondolas-corredor.5c225f5c.jpg",
+    "static/media/cadastro.css": "/layout-website/static/media/gondolas-real.91b13e67.png",
+    "static/media/iimg_background.fd6614a0.jpg": "/layout-website/static/media/iimg_background.fd6614a0.jpg",
+    "static/media/whatsapp.4ba01ee1.png": "/layout-website/static/media/whatsapp.4ba01ee1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d844a27b.js",
+    "static/js/runtime-main.e18abf94.js",
     "static/css/2.591db2b6.chunk.css",
     "static/js/2.fb42ca6e.chunk.js",
-    "static/css/main.b82f2030.chunk.css",
+    "static/css/main.4963b14e.chunk.css",
     "static/js/main.722d3f85.chunk.js"
   ]
 }
