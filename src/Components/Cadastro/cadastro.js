@@ -38,6 +38,7 @@ const Cadastro = () => {
                                 <input class="form-control" type="text" name="" value="" />
                             </div>
                         </div>
+                        <button type="button" class="btn btn-outline-light mt-3" style={{marginLeft: '100px'}}>ENVIAR MEU CADASTRO</button>
                     </form>
                 </div>
             </div>
